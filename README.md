@@ -126,5 +126,5 @@ typer password of your wallet
 Copy address and save Mnemonic
 ![xong](https://github.com/DinhCongTac221/Install-Union-node/assets/27664184/0525a7c7-0133-40aa-8471-95f719db313d)
 
-if the guide help you, please give me a follow: https://twitter.com/DinhcongTac221
+if the guide help you, please give me a follow: https://twitter.com/zerosecxz
 Thanks
